@@ -6,9 +6,6 @@ def display_board(board)
  puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-board_1 = [" "," "," "," "," "," "," "," "," "]
-
-print display_board("board_1")
 
 
 
